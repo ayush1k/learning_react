@@ -1,4 +1,3 @@
 # learning_react
 
-this repository is created during my learnings of react.js from chai aur code 
-d
+this repository is created during my learnings of react.js from chai aur code
